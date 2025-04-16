@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenium 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/selenium 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/selenium 3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Suryabaddika9"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Suryabaddika9/Selenium.git",
+    "accountId": "a3921099-1fc8-4e67-939b-c6f8ca43356f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -38,7 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Login.executor": "Run",
+    "Python.Selenium 4.executor": "Run",
+    "Python.Selenium2.executor": "Run",
     "Python.new.executor": "Run",
+    "Python.selenium 3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -61,6 +74,75 @@
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1743876183940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743876183940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1743876219104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743876219104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1743876311593</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743876311593</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1743876334178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743876334178</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1743942748608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743942748608</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1744021165900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1744021165900</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1744630834993</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744630834993</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1744711331374</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1744711331374</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium" />
   </component>
 </project>
