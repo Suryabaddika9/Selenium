@@ -24,4 +24,8 @@ driver.switch_to.frame("frame-right")
 right_text=driver.find_element(By.XPATH,"//body").text
 print(right_text)
 
+driver.switch_to.default_content()
+driver.switch_to.frame("frame-bottom")
+bottom_text=driver.find_element(By.XPATH,"//body").text
+print(bottom_text)
 
