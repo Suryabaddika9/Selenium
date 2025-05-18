@@ -8,13 +8,13 @@ driver.maximize_window()
 
 driver.get("https://letcode.in/frame")
 time.sleep(3)
-driver.switch_to_frame("firstFr")
+driver.switch_to.frame("firstFr")
 driver.find_element(By.NAME,"fname").send_keys("surya")
 driver.find_element(By.NAME,"lname").send_keys("Baddika")
 time.sleep(3)
 
 inner_frame=driver.find_element(By.XPATH,"//iframe[@src='innerframe']")
-driver.switch_to_frame(inner_frame)
+driver.switch_to.frame(inner_frame)
 driver.find_element(By.NAME,"email").send_keys("surya@gmail.com")
 time.sleep(3)
 
