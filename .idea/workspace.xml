@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/HandlingHyperlinks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Handling_iFrames_Frames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Python.BootstrapModelDialogues.executor": "Run",
     "Python.HandlingHyperlinks.executor": "Run",
+    "Python.Handling_iFrames_Frames.executor": "Run",
     "Python.Login.executor": "Run",
     "Python.Selenium 4.executor": "Run",
     "Python.Selenium 5.executor": "Run",
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747128738081</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1747391801909</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1747391801909</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
