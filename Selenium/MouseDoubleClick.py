@@ -6,12 +6,12 @@ from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
 driver.maximize_window()
-driver.get("https://tutorialsninja.com/demo/")
+driver.get("https://omayo.blogspot.com/")
 
-search = driver.find_element(By.XPATH,"//input[@name='search']")
+double_click = driver.find_element(By.ID,"testdoubleclick")
 
 actions = ActionChains(driver)
-actions.context_click(search).perform()
+actions.double_click(double_click).perform()
 
-time.sleep(3)
+time.sleep(4)
 driver.quit()
