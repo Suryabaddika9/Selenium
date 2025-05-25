@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/DraggingAndDroppingUsingMouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/KeysClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/DraggingAndDroppingUsingMouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/DraggingAndDroppingUsingMouse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
     "Python.Handling_Nested_Frames.executor": "Run",
     "Python.Handling_iFrames_Frames.executor": "Run",
     "Python.HoveringTheMouse_Move_to_element.executor": "Run",
+    "Python.KeysClass.executor": "Run",
     "Python.Login.executor": "Run",
     "Python.MouseClickHoldRelease.executor": "Run",
     "Python.MouseDoubleClick.executor": "Run",
@@ -294,7 +297,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748105888743</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748106217948</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748106217948</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748106228037</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1748106228037</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748106246114</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1748106246114</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

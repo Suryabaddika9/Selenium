@@ -16,4 +16,3 @@ actions.drag_and_drop(oslo,norway).perform()
 
 time.sleep(4)
 driver.quit()
-#ss
