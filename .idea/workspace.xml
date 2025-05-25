@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/KeysClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/KeyDown()andKeyUP()Commands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/DraggingAndDroppingUsingMouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/DraggingAndDroppingUsingMouse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,7 @@
     "Python.Handling_Nested_Frames.executor": "Run",
     "Python.Handling_iFrames_Frames.executor": "Run",
     "Python.HoveringTheMouse_Move_to_element.executor": "Run",
+    "Python.KeyDown()andKeyUP()Commands.executor": "Run",
     "Python.KeysClass.executor": "Run",
     "Python.Login.executor": "Run",
     "Python.MouseClickHoldRelease.executor": "Run",
@@ -321,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748106246114</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748192401739</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1748192401739</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
