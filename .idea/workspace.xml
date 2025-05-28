@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/FindingTheTotalHeightOfThePage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/TakingScreenShotOfFullWebPage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
     "Python.Mouse_Left_Click.executor": "Run",
     "Python.Pause()ActionChainsCommand.executor": "Run",
     "Python.ResizingAnElement.executor": "Run",
+    "Python.RunningBrowserInHeadLessMode.executor": "Run",
     "Python.Selenium 4.executor": "Run",
     "Python.Selenium 5.executor": "Run",
     "Python.Selenium2.executor": "Run",
@@ -425,7 +426,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748467536148</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748467928970</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1748467928970</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748468439980</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1748468439980</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
