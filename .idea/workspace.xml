@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/ExecutingJSCodeGivingAlert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/FindingTheTotalHeightOfThePage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     "Python.BootstrapModelDialogues.executor": "Run",
     "Python.DraggingAndDroppingUsingMouse.executor": "Run",
     "Python.ExecutingJSCodeGivingAlert.executor": "Run",
+    "Python.FindingTheTotalHeightOfThePage.executor": "Run",
     "Python.HandlingAutoSuggestiveDropdown.executor": "Run",
     "Python.HandlingHyperlinks.executor": "Run",
     "Python.HandlingJQueryRightClickMenu.executor": "Run",
@@ -416,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748467395989</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748467536148</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1748467536148</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
