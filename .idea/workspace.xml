@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/HandlingJQueryRightClickMenu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Pause()ActionChainsCommand.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
     "Python.MouseDoubleClick.executor": "Run",
     "Python.MouseRightClick.executor": "Run",
     "Python.Mouse_Left_Click.executor": "Run",
+    "Python.Pause()ActionChainsCommand.executor": "Run",
     "Python.ResizingAnElement.executor": "Run",
     "Python.Selenium 4.executor": "Run",
     "Python.Selenium 5.executor": "Run",
@@ -364,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748432589304</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748465326418</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1748465326418</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
