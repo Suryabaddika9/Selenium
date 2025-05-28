@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/TakingScreenShotOfWebElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/TakingScreenshotOfPageSection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -390,7 +390,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748465890629</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748466136215</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1748466136215</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1748466146455</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1748466146455</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
