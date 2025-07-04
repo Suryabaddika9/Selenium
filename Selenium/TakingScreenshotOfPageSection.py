@@ -8,3 +8,4 @@ driver.get("https://omayo.blogspot.com/")
 Section = driver.find_element(By.ID,"LinkList1")
 
 Section.screenshot("Compendium.png")
+
