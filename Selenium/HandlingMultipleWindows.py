@@ -20,7 +20,7 @@ parent_window_id = driver.current_window_handle
 driver.find_element(By.LINK_TEXT,"Open a popup window").click()
 
 windows=driver.window_handles
-print(windows)
+
 for w in windows:
     driver.switch_to.window(w)
     print(w)
