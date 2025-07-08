@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/ImplicitWait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/ExplicitWait.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Python.Handling_Nested_Frames.executor": "Run",
     "Python.Handling_iFrames_Frames.executor": "Run",
     "Python.HoveringTheMouse_Move_to_element.executor": "Run",
+    "Python.ImplicitWait.executor": "Run",
     "Python.KeyDown()andKeyUP()Commands.executor": "Run",
     "Python.KeysClass.executor": "Run",
     "Python.Login.executor": "Run",
@@ -103,14 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1743876334178</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743876334178</updated>
     </task>
     <task id="LOCAL-00005" summary="Selenium">
       <option name="closed" value="true" />
@@ -496,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751969029002</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1751969386943</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1751969386943</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
