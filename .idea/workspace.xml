@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium" />
+    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
+      <change afterPath="$PROJECT_DIR$/Selenium/HandlingDynamicXPATHExpressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +59,7 @@
     "Python.FindingTheTotalHeightOfThePage.executor": "Run",
     "Python.FluentWait.executor": "Run",
     "Python.HandlingAutoSuggestiveDropdown.executor": "Run",
+    "Python.HandlingDynamicXPATHExpressions.executor": "Run",
     "Python.HandlingHyperlinks.executor": "Run",
     "Python.HandlingJQueryRightClickMenu.executor": "Run",
     "Python.HandlingMultipleTabs.executor": "Run",
@@ -86,6 +91,7 @@
     "Python.TakingScreenShotOfFullWebPage.executor": "Run",
     "Python.TakingScreenShotOfWebElement.executor": "Run",
     "Python.TakingScreenshotOfPageSection.executor": "Run",
+    "Python.Test.executor": "Run",
     "Python.new.executor": "Run",
     "Python.selenium 3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -109,14 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1745231443948</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1745231443948</updated>
     </task>
     <task id="LOCAL-00012" summary="Selenium">
       <option name="closed" value="true" />
@@ -502,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751977933667</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1751978760085</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1751978760085</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
