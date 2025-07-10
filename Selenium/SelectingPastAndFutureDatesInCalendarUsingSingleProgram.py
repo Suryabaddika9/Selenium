@@ -15,7 +15,7 @@ driver.find_element(By.ID,"datepicker").click()
 wait = WebDriverWait(driver,10)
 wait.until(expected_conditions.visibility_of_element_located((By.ID,"ui-datepicker-div")))
 
-expected_date = "2070-09-26"
+expected_date = "2027-09-26"
 
 formatted_date = datetime.strptime(expected_date,"%Y-%m-%d")
 expected_day = formatted_date.day
