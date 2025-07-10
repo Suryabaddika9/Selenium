@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/HandlingCalendarType2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/SelectingPastDateInCalendar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +84,7 @@
     "Python.Pause()ActionChainsCommand.executor": "Run",
     "Python.ResizingAnElement.executor": "Run",
     "Python.RunningBrowserInHeadLessMode.executor": "Run",
+    "Python.SelectingPastDateInCalendar.executor": "Run",
     "Python.Selenium 4.executor": "Run",
     "Python.Selenium 5.executor": "Run",
     "Python.Selenium2.executor": "Run",
@@ -146,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1747572598826</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1747572598826</updated>
     </task>
     <task id="LOCAL-00018" summary="Selenium">
       <option name="closed" value="true" />
@@ -539,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752138803886</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1752140583378</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1752140583378</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
