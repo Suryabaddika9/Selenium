@@ -1,14 +1,12 @@
-import time
+from datetime import datetime
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.wait import WebDriverWait
+expected_date = "2024-09-26"
 
-from Selenium.HandlingHyperlinks import xpath_text
+formatted_date = datetime.strptime(expected_date,"%Y-%m-%d")
+expected_day = formatted_date.day
+expected_month = formatted_date.month
+expected_year = formatted_date.year
 
-driver = webdriver.Chrome()
-driver.maximize_window()
-driver.get("https://seleniumpractise.blogspot.com/2016/08/how-to-handle-calendar-in-selenium.html")
-driver.find_element(By.ID,"datepicker").click()
-
+print(expected_year)
+print(expected_day)
+print(expected_month)
