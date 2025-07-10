@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/HandlingCalendarType1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/HandlingCalendarType1UsingJS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/New Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +41,6 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2vJLf7fCutasWIgc1ZGtKwxcNrf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,6 +60,7 @@
     "Python.FluentWait.executor": "Run",
     "Python.HandlingAutoSuggestiveDropdown.executor": "Run",
     "Python.HandlingCalendarType1.executor": "Run",
+    "Python.HandlingCalendarType1UsingJS.executor": "Run",
     "Python.HandlingDynamicXPATHExpressions.executor": "Run",
     "Python.HandlingHyperlinks.executor": "Run",
     "Python.HandlingJQueryRightClickMenu.executor": "Run",
@@ -79,6 +81,7 @@
     "Python.MouseDoubleClick.executor": "Run",
     "Python.MouseRightClick.executor": "Run",
     "Python.Mouse_Left_Click.executor": "Run",
+    "Python.New Test.executor": "Run",
     "Python.Pause()ActionChainsCommand.executor": "Run",
     "Python.ResizingAnElement.executor": "Run",
     "Python.RunningBrowserInHeadLessMode.executor": "Run",
@@ -132,7 +135,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f78a9d071105-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26574.90" />
+        <option value="bundled-python-sdk-598b0484d0b5-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.74" />
       </set>
     </attachedChunks>
   </component>
@@ -144,14 +147,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1747391801909</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1747391801909</updated>
     </task>
     <task id="LOCAL-00016" summary="Selenium">
       <option name="closed" value="true" />
@@ -537,7 +532,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751981496713</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1751983964566</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1751983964566</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
