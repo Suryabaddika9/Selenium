@@ -11,6 +11,6 @@ driver.get("https://omayo.blogspot.com/")
 
 button = driver.find_element(By.ID,"alert1")
 
-driver.execute_script("arguments[0].click()",button)
+driver.execute_script("arguments[0].click(), arguments[1].click()",button)
 
 time.sleep(5)

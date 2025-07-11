@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/UsingJSforClickingElement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/UsingJSforClickingElement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/UsingJSforClickingElement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +101,7 @@
     "Python.TakingScreenShotOfWebElement.executor": "Run",
     "Python.TakingScreenshotOfPageSection.executor": "Run",
     "Python.Test.executor": "Run",
+    "Python.UsingJSforClickingElement.executor": "Run",
     "Python.new.executor": "Run",
     "Python.selenium 3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -154,14 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1748106228037</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1748106228037</updated>
     </task>
     <task id="LOCAL-00029" summary="Selenium">
       <option name="closed" value="true" />
@@ -547,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752230340248</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1752236052318</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1752236052318</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
