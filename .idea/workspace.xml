@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium">
-      <change afterPath="$PROJECT_DIR$/Selenium/EnteringTextIntoFieldUsingJS.py" afterDir="false" />
-    </list>
+    <list default="true" id="8f037e67-cef0-4daa-95ef-7609463b8b42" name="Changes" comment="Selenium" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +49,7 @@
     "Python.EW_WaitingForAnAlertToBeDisplayed.executor": "Run",
     "Python.EW_WaitingForAnElementToBeClickable.executor": "Run",
     "Python.EW_WaitingForAnElementToBeInvisible.executor": "Run",
+    "Python.EnteringTextIntoFieldUsingJS.executor": "Run",
     "Python.ExecutingJSCodeGivingAlert.executor": "Run",
     "Python.ExplicitWait.executor": "Run",
     "Python.FindingTheTotalHeightOfThePage.executor": "Run",
@@ -156,14 +155,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1748427590767</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1748427590767</updated>
     </task>
     <task id="LOCAL-00033" summary="Selenium">
       <option name="closed" value="true" />
@@ -549,7 +540,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752237737005</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1752237996867</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1752237996867</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
