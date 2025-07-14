@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="2" time="0.064" timestamp="2025-07-12T21:58:14.252898+05:30" hostname="MSI"><testcase classname="SamplePackage.test_sample" name="test_sample_one" time="0.001" /><testcase classname="SamplePackage.test_sample" name="test_sample2" time="0.001"><failure message="AssertionError: a is not equal to b&#10;assert 1 == 4">def test_sample2():
+        a=1
+        b=4
+&gt;       assert a==b,"a is not equal to b"
+E       AssertionError: a is not equal to b
+E       assert 1 == 4
+
+SamplePackage\test_sample.py:6: AssertionError</failure></testcase></testsuite></testsuites>
