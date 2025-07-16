@@ -43,77 +43,77 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BootstrapModelDialogues.executor": "Run",
-    "Python.DraggingAndDroppingUsingMouse.executor": "Run",
-    "Python.EW_WaitForPresenceOfElement.executor": "Run",
-    "Python.EW_WaitingForAnAlertToBeDisplayed.executor": "Run",
-    "Python.EW_WaitingForAnElementToBeClickable.executor": "Run",
-    "Python.EW_WaitingForAnElementToBeInvisible.executor": "Run",
-    "Python.EnteringTextIntoFieldUsingJS.executor": "Run",
-    "Python.ExecutingJSCodeGivingAlert.executor": "Run",
-    "Python.ExplicitWait.executor": "Run",
-    "Python.FindingTheTotalHeightOfThePage.executor": "Run",
-    "Python.FlashingAnElementUsingJS.executor": "Run",
-    "Python.FluentWait.executor": "Run",
-    "Python.HandlingAutoSuggestiveDropdown.executor": "Run",
-    "Python.HandlingCalendarType1.executor": "Run",
-    "Python.HandlingCalendarType1UsingJS.executor": "Run",
-    "Python.HandlingCalendarType2.executor": "Run",
-    "Python.HandlingCalendarType4.executor": "Run",
-    "Python.HandlingCalendarType5.executor": "Run",
-    "Python.HandlingCalendarType6.executor": "Run",
-    "Python.HandlingDynamicTables.executor": "Run",
-    "Python.HandlingDynamicXPATHExpressions.executor": "Run",
-    "Python.HandlingHyperlinks.executor": "Run",
-    "Python.HandlingJQueryRightClickMenu.executor": "Run",
-    "Python.HandlingMultipleTabs.executor": "Run",
-    "Python.HandlingMultipleWindowCommands.executor": "Run",
-    "Python.HandlingMultipleWindowsOrTabs.executor": "Run",
-    "Python.HandlingParentChildSiblingFrames.executor": "Run",
-    "Python.HandlingSliderUsingMouseEvents.executor": "Run",
-    "Python.HandlingTables.executor": "Run",
-    "Python.Handling_Mouse_Events.executor": "Run",
-    "Python.Handling_Nested_Frames.executor": "Run",
-    "Python.Handling_iFrames_Frames.executor": "Run",
-    "Python.HighlightingAnElementWithBorderUsingJS.executor": "Run",
-    "Python.HoveringTheMouse_Move_to_element.executor": "Run",
-    "Python.ImplicitWait.executor": "Run",
-    "Python.KeyDown()andKeyUP()Commands.executor": "Run",
-    "Python.KeysClass.executor": "Run",
-    "Python.Login.executor": "Run",
-    "Python.MouseClickHoldRelease.executor": "Run",
-    "Python.MouseDoubleClick.executor": "Run",
-    "Python.MouseRightClick.executor": "Run",
-    "Python.Mouse_Left_Click.executor": "Run",
-    "Python.New Test.executor": "Run",
-    "Python.Pause()ActionChainsCommand.executor": "Run",
-    "Python.PrintingEntireTable.executor": "Run",
-    "Python.ResizingAnElement.executor": "Run",
-    "Python.RunningBrowserInHeadLessMode.executor": "Run",
-    "Python.SelectingPastAndFutureDatesInCalendarUsingSingleProgram.executor": "Run",
-    "Python.SelectingPastDateInCalendar.executor": "Run",
-    "Python.Selenium 4.executor": "Run",
-    "Python.Selenium 5.executor": "Run",
-    "Python.Selenium2.executor": "Run",
-    "Python.StartChromeBrowserInFullScreenModeUsingChromeOptions.executor": "Run",
-    "Python.StartChromeBrowserinMaxModeUsingChromeOptions.executor": "Run",
-    "Python.TakingScreenShot.executor": "Run",
-    "Python.TakingScreenShotOfFullWebPage.executor": "Run",
-    "Python.TakingScreenShotOfWebElement.executor": "Run",
-    "Python.TakingScreenshotOfPageSection.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.UsingJSforClickingElement.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.selenium 3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BootstrapModelDialogues.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DraggingAndDroppingUsingMouse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EW_WaitForPresenceOfElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EW_WaitingForAnAlertToBeDisplayed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EW_WaitingForAnElementToBeClickable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EW_WaitingForAnElementToBeInvisible.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EnteringTextIntoFieldUsingJS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExecutingJSCodeGivingAlert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExplicitWait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FindingTheTotalHeightOfThePage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FlashingAnElementUsingJS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FluentWait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingAutoSuggestiveDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType1UsingJS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingCalendarType6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingDynamicTables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingDynamicXPATHExpressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingHyperlinks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingJQueryRightClickMenu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingMultipleTabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingMultipleWindowCommands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingMultipleWindowsOrTabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingParentChildSiblingFrames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingSliderUsingMouseEvents.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HandlingTables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handling_Mouse_Events.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handling_Nested_Frames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handling_iFrames_Frames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HighlightingAnElementWithBorderUsingJS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HoveringTheMouse_Move_to_element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImplicitWait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KeyDown()andKeyUP()Commands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KeysClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MouseClickHoldRelease.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MouseDoubleClick.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MouseRightClick.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mouse_Left_Click.executor&quot;: &quot;Run&quot;,
+    &quot;Python.New Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pause()ActionChainsCommand.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintingEntireTable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ResizingAnElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RunningBrowserInHeadLessMode.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SelectingPastAndFutureDatesInCalendarUsingSingleProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SelectingPastDateInCalendar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StartChromeBrowserInFullScreenModeUsingChromeOptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StartChromeBrowserinMaxModeUsingChromeOptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingScreenShot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingScreenShotOfFullWebPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingScreenShotOfWebElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingScreenshotOfPageSection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UsingJSforClickingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium 3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="HandlingCalendarType1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject2" />
@@ -146,7 +146,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-598b0484d0b5-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.74" />
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -158,14 +158,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743858331870</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Selenium">
-      <option name="closed" value="true" />
-      <created>1748465890629</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1748465890629</updated>
     </task>
     <task id="LOCAL-00038" summary="Selenium">
       <option name="closed" value="true" />
@@ -551,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752511552449</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Selenium">
+      <option name="closed" value="true" />
+      <created>1752670120036</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1752670120036</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
